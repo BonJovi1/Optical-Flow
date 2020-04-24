@@ -1,7 +1,10 @@
 *.DS_Store
 .ipynb_checkpoints
+Assignment5.pdf
+
+# data folders and outputs
 /data
 /frames
 /output-tracking
 /output-videos
-Assignment5.pdf
+
