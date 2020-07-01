@@ -1,5 +1,6 @@
 # Optical-Flow
-Implementing the Lucas Kanade algorithm to compute the optical flow between images. Using the flow to also detect, segment and track objects in videos. 
+Implementing the Lucas Kanade algorithm to compute the optical flow between images. Using the flow to also detect, segment and track objects in videos. \
+Assignment-5, Computer Vision, Spring 2020
 
 The jupyter notebook takes a long time to load on Github. Check out the code on [**nbviewer**](https://nbviewer.jupyter.org/github/BonJovi1/Optical-Flow/blob/master/code.ipynb).
 
